@@ -1,7 +1,7 @@
 # sentiment-analysis-LSTM
 
 ## Hasil Confusion Matrix
-<img src="https://github.com/taufiq26127/sentiment-analysis-LSTM/blob/main/images/hasil1.jpg?raw=true" alt="Deskripsi Gambar" width="300"/>
+<img src="https://github.com/taufiq26127/sentiment-analysis-LSTM/blob/main/images/hasil1.jpg?raw=true" alt="Deskripsi Gambar" width="500"/>
 
 ## Kesimpulan
 Model masih memiliki kekuranga dalam mengklasifikasikan sentiment, dimana model harus ditingkatkan atau mencoba menggunakan algoritma yang lain
